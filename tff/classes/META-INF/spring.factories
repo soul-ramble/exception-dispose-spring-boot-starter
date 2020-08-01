@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.com.creavalue.exception.dispose.configuration.ExceptionDisposeAutoConfiguration,\
+cn.com.creavalue.exception.dispose.configuration.ResponseAutoConfiguration
